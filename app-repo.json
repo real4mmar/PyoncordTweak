@@ -1,5 +1,6 @@
 {
   "name": "Pyoncord App Repo",
+  "identifier": "com.litritt.ignited.source",
   "apps": [
     {
       "name": "Pyoncord",
